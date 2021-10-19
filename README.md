@@ -6,7 +6,7 @@ For the thirteenth activity you are invited to participated in a guided completi
 
 ## Assignment
 
--  Complete [Activity 13]() directly on TryHackMe.
+-  Complete [Activity 13](https://tryhackme.com/jr/howwebsitesworklm) directly on TryHackMe.
 
 ## Submission
 
